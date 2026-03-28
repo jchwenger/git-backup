@@ -1,5 +1,7 @@
 # git-backup
 
+**Vibe coded with Cursor.**
+
 Back up all public repositories of a user from **GitHub**, **GitLab**, or **Codeberg**.
 
 - First run clones every repo into a `<username>/` subfolder.
